@@ -5,7 +5,7 @@ This script allows you to save Docker images to your local storage with a real-t
 ## Features:
 1. **Real-time progress bar**: Tracks the progress of saving Docker images.
 2. **Save all Docker images**: Option to save all images from your local Docker registry.
-3. **Save specific Docker images**: Allows the user to select specific images to save.
+3. **Save specific Docker images**: The user can select specific images to save.
 4. **Customizable save path**: You can specify the directory where Docker images will be saved.
 5. **Image name display in progress**: The progress bar shows the name of the image currently being saved.
 
@@ -18,7 +18,7 @@ Before using this script, ensure you have the following installed:
 ## Setup
 
 ### Step 1: Clone or Copy the Script
-Copy the script to your local machine. You can either clone the repository or manually copy the code into a file.
+Copy the script to your local machine. You can clone the repository or manually copy the code into a file.
 
 ```bash
 $ git clone https://github.com/alilotfi23/DockerImageBox.git
