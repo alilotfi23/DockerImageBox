@@ -18,7 +18,7 @@ Before using this script, ensure you have the following installed:
 ## Setup
 
 ### Step 1: Clone or Copy the Script
-Copy the script to your local machine. You can clone the repository or manually copy the code into a file.
+You can clone the repository or manually copy the code into a file.
 
 ```bash
 $ git clone https://github.com/alilotfi23/DockerImageBox.git
